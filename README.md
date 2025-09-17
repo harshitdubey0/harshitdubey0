@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 My GitHub Overview (safe badges – no API errors)
+### 📊 My GitHub Overview 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshitdubey0&label=Profile%20views&color=0e75b6&style=flat)  
 ![GitHub followers](https://img.shields.io/github/followers/harshitdubey0?label=Followers&style=flat)  
 ![GitHub User's stars](https://img.shields.io/github/stars/harshitdubey0?affiliations=OWNER&style=flat)  
